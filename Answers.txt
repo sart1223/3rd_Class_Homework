@@ -1,0 +1,7 @@
+The first book Frankenstein the author has a wider distinct vocabulary with 7,734 unique words
+compared to Pride and Prejudice which has 7,479.
+I couldn't figure out which author had more unique words longer than 7 letters
+The total number of words in Pride and Prejudice is 124,749 so that divided by the number of unique words
+is equal to 16.68 and the same action for Frankenstein shows that the total number of words 78,122
+divided by the unique words 7,734 is equal to 10.1 meaning that on average Pride and Prejudice has
+a wider vocabulary which is different to my previous answer.
