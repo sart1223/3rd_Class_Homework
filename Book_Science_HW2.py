@@ -2,8 +2,8 @@ import certifi
 import ssl
 from urllib.request import urlopen
 
-url = "https://www.gutenberg.org/files/1342/1342-0.txt"
-local_name = "pride_and_prejudice.txt"
+url = "https://www.gutenberg.org/cache/epub/67778/pg67778.txt"
+local_name = "history_of_transmission.txt"
 
 
 def save_locally():
@@ -51,7 +51,7 @@ for word_frequency in most_frequent[0:]:
             unique_words[unique_word] = -1
             break
 print(len(unique_words))
-file = open('pride_and_prejudice.txt', 'r')
+file = open('history_of_transmission.txt', 'r')
 read_data = file.read()
 per_word = read_data.split()
 print(len(per_word))
